@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 791" width="900" height="791">
+	<title>New Project</title>
+	<defs>
+		<image  width="900" height="900" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAOEAQMAAADDgG14AAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAB6SURBVHic7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeDKQ1wABoi0GrAAAAABJRU5ErkJggg=="/>
+		<radialGradient id="g1" cx="445.5" cy="389.6" r="512.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#1c1e20" stop-opacity="0"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .1;fill: url(#g1) } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Layer" class="s0" d="m461.3 376.9l233.1-376.9h122.8l-351.9 379.3q-2-1.2-4.1-2.4zm-4-1.6c-1.4-0.4-2.7-0.8-4.1-0.8l52.3-374.5h88.6zm-20.7 2.8l-312.8-378.1h114.3l201.6 376.5c-0.9 0.4-2.2 1.2-3.1 1.6zm7.2-2.8l-109.8-375.3h86.8l27.9 374.5q-0.6 0-1.3 0c-1.3 0.4-2.7 0.4-3.6 0.8zm-8.1 37.2l-320.9 378.5h-114.7v-31.7l432-350c1.3 1.2 2.7 2 3.6 3.2zm36.9-23.8l427.5-125.7v77.9l-426.2 51.4q-0.6-2.4-1.3-3.6zm1.3 8.4l426.2 18.5v76l-426.6-91c0-1.2 0.4-2.4 0.4-3.5zm426.2-334.2v110.7l-429.3 211.6c-0.5-1.2-1.3-2-2.2-3.2zm-440.6 352l178.2 376.1h-92.7l-89.5-374.9q2-0.6 4-1.2zm-459.4-272.5v-119.8l432.9 358.3c-1.4 1.2-2.3 2.4-3.2 3.6zm466.2 268.5l420.3 380.1h-139.5l-283.9-377.7c0.9-0.8 2.2-1.6 3.1-2.4zm5.8-6.7l428 170.8v98.9l-430.2-266.5c0.9-1.2 1.4-2.4 2.2-3.2zm-19.3 12.2l46.8 374.6h-84.6l32.9-374.6c1.3 0 2.7 0 4.9 0zm-452.7 51.5v-74.8l426.1 1.6c0 0.8 0 1.6 0 2.8 0.5 0.8 0.5 1.5 0.5 1.9zm0-149.9v-81l428 150.7c-1 1.1-1 2.3-1.4 3.5zm429.3 88.6l-429.3 234.9v-93.3l428-144.8c0.4 0.8 0.9 2 1.3 3.2zm14.9 9.5l-116.1 374.9h-96.8l208.4-376.5c1.3 0.8 2.7 1.2 4.5 1.6z"/>
+</svg>

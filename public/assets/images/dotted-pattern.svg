@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" width="9" height="9">
+	<title>dotted-pattern</title>
+	<defs>
+		<image  width="3" height="3" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADAQMAAABs5if8AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAAF0Uk5TDT5XpNsAAAALSURBVHicY2AAAQAABgAB/oxnyAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
